@@ -1,0 +1,5 @@
+Xavier:
+-Boutton switch activer/désactiver quadrillage
+-load bouton a finir
+-accHeigth a finir
+-accWidth a finir
